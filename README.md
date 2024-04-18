@@ -1,4 +1,4 @@
-# webapp-streamlit
+# webapp-Streamlit Metrics
 # Info
 
 # Περιγραφή Εφαρμογής
@@ -13,7 +13,7 @@
 # Tasks
 Τα Tasks που υλοποιήθηκαν από κάθε μέλος είναι:
 
-O Καλδάνης Χρήστος ανέλαβε τα εξής: Raw Data, 2D Visualization, Classification Algorithms, Clustering Algorithms, Αναφορά σε LaTeX
+O Καλδάνης Χρήστος ανέλαβε τα εξής: Raw Data, 2D Visualization, Classification Algorithms, Clustering Algorithms, Docker, Github, Αναφορά σε LaTeX
 
 O Λύγκουρης Κωνσταντίνος ανέλαβε τα εξής: UML Diagrams, Συγγραφή των Result και Info tabs.
 
