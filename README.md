@@ -13,9 +13,9 @@
 # Tasks
 Τα Tasks που υλοποιήθηκαν από κάθε μέλος είναι:
 
-O Καλδάνης Χρήστος ανέλαβε τα εξής: Raw Data, 2D Visualization, Classification Algorithms, Clustering Algorithms, Docker, Github, Αναφορά σε LaTeX
+O Καλδάνης Χρήστος - inf2021070 ανέλαβε τα εξής: Raw Data, 2D Visualization, Classification Algorithms, Clustering Algorithms, Docker, Github, Αναφορά σε LaTeX
 
-O Λύγκουρης Κωνσταντίνος ανέλαβε τα εξής: UML Diagrams, Κύκλος Ζωής Έκδοσης Λογισμικού, Συγγραφή των Result και Info tabs.
+O Λύγκουρης Κωνσταντίνος - inf2021124 ανέλαβε τα εξής: UML Diagrams, Κύκλος Ζωής Έκδοσης Λογισμικού, Συγγραφή των Result και Info tabs.
 
 # URL Εφαρμογής
 Για να δοκιμάσετε την εφαρμογής αναζητήστε το url μας: http://192.168.1.3:8501/
