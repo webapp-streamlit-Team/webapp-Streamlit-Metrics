@@ -172,8 +172,8 @@ if __name__ == "__main__":
             labels = np.random.choice(['A', 'B', 'C', 'D'], size=len(df))
             df['Label'] = labels
             st.write(df)
-            st.subheader("Evaluating the Birth Rate - Death Rate (per 1,000 people)")
-            st.bar_chart(data=df, x="Birth rate, crude (per 1,000 people)", y="Death rate, crude (per 1,000 people)", color="#ffaa00", width=0, height=0, use_container_width=True)
+            # st.subheader("Evaluating the Birth Rate - Death Rate (per 1,000 people)")
+            # st.bar_chart(data=df, x="Birth rate, crude (per 1,000 people)", y="Death rate, crude (per 1,000 people)", color="#ffaa00", width=0, height=0, use_container_width=True)
             st.success("Done!")
         
         with tab2:
